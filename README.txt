@@ -1,1 +1,0 @@
-The Beer Lcd is a project desgined to help the Homebrewer keep tack of the tem of the fermenter.
